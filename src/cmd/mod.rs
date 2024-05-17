@@ -1,10 +1,9 @@
 use camino::Utf8PathBuf;
 use clap::{Parser, Subcommand};
-use crate::VERSION;
 
 #[derive(Parser)]
-#[command(name = "Adjucipes")]
-#[command(version = VERSION)]
+#[command(name = env!("CARGO_PKG_NAME"))]
+#[command(version = env!("CARGO_PKG_VERSION"))]
 #[command(about = "Generate Minecraft Datapacks through TOML and Lua files.")]
 #[command(long_about = "Adjucipes is a CLI tool that can generate Minecraft Datapacks.\nFor those, folders defined as Abstract Datapacks are being created which define how the final Datapack will be generated.\nSupported are TOML files for static things like blacklists and scripting through Lua files, allowing more complex automation as well.")]
 #[command(propagate_version = true)]

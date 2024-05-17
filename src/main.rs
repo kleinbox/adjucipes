@@ -7,8 +7,6 @@ pub mod cmd;
 pub mod datapack;
 pub mod exceptions;
 
-const VERSION: &str = env!("CARGO_PKG_VERSION");
-
 fn main() {
     let cli = match cmd::Cli::try_parse() {
         Ok(result) => result,
