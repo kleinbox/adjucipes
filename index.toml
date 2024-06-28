@@ -1,0 +1,1767 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/MouseTweaks.cfg"
+hash = "438de2af36bf905993252e5015ad3b2f907473f0ad2722d6c79185728bb9b20b"
+
+[[files]]
+file = "config/SimpleCoordinate.toml"
+hash = "08700ae6fac40e06995f7fa0266a7e8899203e3c9b82c7a3bb9d0351c289bd82"
+
+[[files]]
+file = "config/betterclouds-v1.json"
+hash = "0e1fae0427434cdfc2e066667bbf1c0be1a365aa00614165a0f79ae000c8ced4"
+
+[[files]]
+file = "config/bundle_jumble.json"
+hash = "5a46359a866419900a88336b635b0076f51b9b04bb121102c8cf834af7c59c59"
+
+[[files]]
+file = "config/carryon-common.json"
+hash = "68b84330ad5ecf197ebafe7804a477c46b81c65ab2dd7e901660546b789ec1a4"
+
+[[files]]
+file = "config/chunksfadein.properties"
+hash = "d22b8473d80a5f33f82de01be3a97f1ef488c5173770df83a53789d7be2f913e"
+
+[[files]]
+file = "config/cr-compass-ribbon.json"
+hash = "4120771dce03e61e146ece62a412031e639b71588dd5077a94b30a327a594927"
+
+[[files]]
+file = "config/dark-loading-screen.json"
+hash = "06837f9cff82c1feb5c364c77548241f8474a9168227dece17529680f53f796c"
+
+[[files]]
+file = "config/difficultylock.json5"
+hash = "af458cc965a720a7f4b4d9fec7edd3cc03fe470f7807efdf7df326195777bd49"
+
+[[files]]
+file = "config/entity_model_features.json"
+hash = "392a955315c034ca833d8163ac8d525eda212c3454308e6c5cf52e3f6acb9f44"
+
+[[files]]
+file = "config/entity_texture_features.json"
+hash = "2274863728edd285a4160385b3e7fc21d7c11dc7c3a675051d155c38b91f10e9"
+
+[[files]]
+file = "config/expandedstorage.json"
+hash = "4249c0bea288e0cd0ea65d197c6c81b52f3417f25cb09594c4f92359907ce993"
+
+[[files]]
+file = "config/fabrishot.properties"
+hash = "1b4bc6a2036f08f219f2043bcbfe5ddc4b52cee4098b829c8fac34aaa8040900"
+
+[[files]]
+file = "config/lighty.config"
+hash = "b6463688645c2e262aa19a9dd128a1f730db57148f349f1006008732f337879f"
+
+[[files]]
+file = "config/mobcap_modifier.json5"
+hash = "600d286ad26ce108ed839ad2b6a2aa308eebfa7cbb2f28345c04bbe5ed095371"
+
+[[files]]
+file = "config/modify-camera-collision.json"
+hash = "9871ae42d4062ea9deace527f7efa94dbde5ac9be37f314bcfc48b2a23ec10c3"
+
+[[files]]
+file = "config/music_delay_reducer.json"
+hash = "1f74b4ac350141e45d627f0a13febeca87ac5042a445c8e8639966d20bf59959"
+
+[[files]]
+file = "config/paxi/datapacks/fishingsim.pw.toml"
+hash = "065b407f17515bbc7bf78c3ac21362a646a0f8f62f16a18aeb91303eb6e1e08f"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/mob-progression.pw.toml"
+hash = "de13f91bbe17c06f0cdb66cac7946b7950887e5689e7f671afa4b00f0ed315a8"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/no-slimes.pw.toml"
+hash = "16c1422d2a0da6069788384c18c056036855ae8e4d16cb5bcdcd82437af0a75b"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/player-head-drops.pw.toml"
+hash = "3f14d7c6ae6c9bb4f8851de237985d58a5283903b1df41e52634c37db6c5a5b9"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/zzz_emergence_recipes/datapack.toml"
+hash = "52dc6395e8e5df0be01f7962cb7efd7a796f02d17ae4c3b8b0bc2c87fcbfe6aa"
+
+[[files]]
+file = "config/paxi/datapacks/zzz_emergence_recipes/pack.mcmeta"
+hash = "13faaec4185934dd847f93275f2a08b5956b371b45c2197e7d7370d5ee024554"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/betterarcheology/textures/block/fossiliferous_dirt_0.png"
+hash = "c65de32b3875b45e904b25e2bfbe8860167801ff168ae005228febe23e2fbf3e"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/betterarcheology/textures/block/fossiliferous_dirt_1.png"
+hash = "196af2bac5d203efb96f477252ccf473fdd88166fd2c177417b7ef8f254334ca"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/betterarcheology/textures/block/fossiliferous_dirt_2.png"
+hash = "5cfdd6d122ba2170ded26765c1251ba52b0ffe4a9a0210cc6687266d83ebcf6e"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/betterarcheology/textures/block/fossiliferous_dirt_3.png"
+hash = "49cecb682a24ac8bf4ef99182d92136b47d9777cb9ade8e56bf02a8d425213ac"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/betterarcheology/textures/block/suspicious_dirt/suspicious_dirt_0.png"
+hash = "bb9a957b99a2637a559433359dbad65bb3ed078a4e698a193be96aa72df2e8d5"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/betterarcheology/textures/block/suspicious_dirt/suspicious_dirt_1.png"
+hash = "fd18e5a886959fcd57af532e9cff025cae3ece69aafd29f1efaff7c4eb547b81"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/betterarcheology/textures/block/suspicious_dirt/suspicious_dirt_2.png"
+hash = "8d968c34e9af83fdadd1c242d28f46da53d3c7c69916745a7213324e9b2abfe2"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/betterarcheology/textures/block/suspicious_dirt/suspicious_dirt_3.png"
+hash = "407a97f178f9387316e4722ca36bf883ee3d29ddb5a5de4d8f3145e57331f80e"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/betterarcheology/textures/gui/archeology_table_gui.png"
+hash = "1d0021b4cdd9c094ee62c4e46cc8b3724a0e72d74f032af57951f64e5977241b"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/betterarcheology/textures/gui/fossil_gui.png"
+hash = "88f5e46b661ba4f59799431161e4a69a19520f1e916b029f9762670a2f157a54"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/betterarcheology/textures/item/brushes/iron_brush.png"
+hash = "0fab0fdd85c9da17c7f8106ca05da6b59c4a3a55c72c2533502d229d044f3343"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/bountifulfares/textures/block/grassy_dirt_side.png"
+hash = "81a478a1044c52c6c0daf596e825c7883799017513072ede36d3a84dacdcb8dc"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/bountifulfares/textures/block/grassy_dirt_side_tint.png"
+hash = "aef30dd1948d258dcc80a6cd744757f2a49f1a8b128956a86fb3787015da7d70"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/bountifulfares/textures/block/grassy_dirt_top.png"
+hash = "b2939aee1f991d429084d28b3e8e806370dcd80ec025fb0004c2cf4626430a82"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/bountifulfares/textures/block/grassy_dirt_top_tint.png"
+hash = "30612fcd2b3671809ee3cb57bb87356d44f8c5e22a1c9de8e8b073f5f5df2456"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/expandedstorage/textures/gui/container/shared_12_9.png"
+hash = "4f69c91bf6619a41c5577ef46682a9b0e3aa113c90bd8f62d44048916e735d4d"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/expandedstorage/textures/gui/container/shared_15_6.png"
+hash = "11aa090a161f74ed2379ed4c2db32859e95d20a7b1ea218b20158b839d8e886b"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/expandedstorage/textures/gui/container/shared_15_9.png"
+hash = "d808076dce22641dd8479ca444bcff95820e002f00c0fcae1889826a1abe692e"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/expandedstorage/textures/gui/container/shared_18_12.png"
+hash = "e49c072f48a0b3b70eb2f2e543e6b4922dd5b7e0981daab56273db2a4c80da21"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/expandedstorage/textures/gui/container/shared_18_15.png"
+hash = "45d102cb19cd2ca15aa6a46cc1bb00e6cb191999992fd3c2921109612b931a4a"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/expandedstorage/textures/gui/container/shared_18_9.png"
+hash = "8a7f7fc834ad7d7130303e51dde6bc13bb44f977ef0bc27fa2752e365c02a5c4"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/expandedstorage/textures/gui/container/shared_9_3.png"
+hash = "d6cf38cbae7775f62fc6ab3546f43d5b49a3d8c851e08eaa9e958a503bacfbb2"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/expandedstorage/textures/gui/container/shared_9_5.png"
+hash = "14bac18042362596cb74895049e04da10d5a1a3207b07f5792c7bab1d79d8207"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/expandedstorage/textures/gui/container/shared_9_6.png"
+hash = "6008c9e38a1d3e933a0b77a12d8dfc844fa2e0dc5738a8856854339511c21940"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/expandedstorage/textures/gui/container/shared_9_9.png"
+hash = "aad53f3178a79e4a9c966b2494a5f18884e3b5684567bd972a1b63e6ceb07a42"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/blockstates/stone.json"
+hash = "2df970ee713dcc51cd716ce0364552e6cc64d94c768cd6bc6525b49ceac875e1"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/blockstates/stone_slab.json"
+hash = "a73617b82ca1a38366305d97b1b27f5ce5291750f3e05ead36d07b75b7a1b34b"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/blockstates/stone_stairs.json"
+hash = "0372995fffc97d6f5f94b6cb06b6a370277b1172ad06766fecf4da57629f40f7"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/lang/en_us.json"
+hash = "22036517dea62a8f58535d664687738348d3eded5726306d41b907eff6ef2b95"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/block/0.json"
+hash = "08a49d586de8a8f87df2c852869d4648b17c17e00802096d13adf6cd2401f8b1"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/block/1.json"
+hash = "b20a0a8b943193002dd12bee26a5d7cf461cd96c1f0bda36bb8a7da193f54cfc"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/block/10.json"
+hash = "ae3746d328c9ab2ebd8f5f5a5f83811a806f114b1a7898796a81deafe56da1a5"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/block/11.json"
+hash = "931d890d81bed3ef689566c0cc0df0acc985cbc9ddbf843ecd5c6bc434fde6b8"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/block/2.json"
+hash = "ff638b0c03d89a289c7f21c074fba8e3f934027044507769bc079e8933aaf27a"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/block/3.json"
+hash = "bb6b68802f7048166074b0d6ac7680f0e42eb08b847f362ffdadfbb956a8b1a4"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/block/4.json"
+hash = "3f37671ebd6ae50157a795de51915f8e7a4e7622740c8cd5d7d051648a1c0b69"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/block/5.json"
+hash = "3b0a340c03870db4266f397e6c4bb21989169aa1a9e2fcef3ea924234e863d65"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/block/6.json"
+hash = "1bfbf3b832173b894a2bb1dd0a61d4979d5f8117f238596c831598d5d26b6023"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/block/7.json"
+hash = "913af9676cebd373b84b7d5e9d023e0944e72ad679391d87700ea582abf09192"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/block/8.json"
+hash = "73d1911086716699ce57904912847549b19110d73bd8b81dbceaa82f20460732"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/block/9.json"
+hash = "1e2ca04e7c74508dba805b3480a69e948090963f32d06400c097bc5bfacb27db"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/slab/0.json"
+hash = "ab60b103f81af0a550e4567b8b2fb69db9f4e70499e41621a410d17bf3ea98b3"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/slab/1.json"
+hash = "058d6356e56041ccb695fd17cf8c1215657e1490bca11121718b708f0c05ed37"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/slab/10.json"
+hash = "46042355aca8e62082a8d8042bea0aeb4e2cd6e31659fbbff384b02ec925cc6d"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/slab/11.json"
+hash = "a08e0281ab3744d39cbf5fb5dfa642d3507297c2af1275d58ffda56e9cda6a0c"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/slab/2.json"
+hash = "9efdd9da0d0fce6689cff71660ea5bc1380142e0f870762d38892d69d0c626b2"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/slab/3.json"
+hash = "21398e2c6d769d57aaf728dc1bbb466cdbda95fd1edaa243b6e7c59d95c2b3c7"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/slab/4.json"
+hash = "acc347f1e553eb919db4c38221bbebf07b1bda6340f97d6bb9130a56e5fa6ce9"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/slab/5.json"
+hash = "7308aadacdbf0ced69b4df22a807e9455ce8bf705ed3a82f90ffcf84c6e45663"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/slab/6.json"
+hash = "7307706ef2ebbe341296974fcb66edd5e0ca698c7452dad687c90656585d73dc"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/slab/7.json"
+hash = "ce9145bb1ff4cb5d620ae6fc49f12362c7fc204880662d0074146b290790e70f"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/slab/8.json"
+hash = "01621900d0f962bd9ee8c5b2c7ac87960702c9056503e8054eb313c84c65c50f"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/slab/9.json"
+hash = "b463564ae816cfec677118cd4594b55728eebce859e0ba02ac06da75c3442b8c"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/slab_top/0.json"
+hash = "1d84712cdb967bdd21764f0c273713870038398d5490493bc2d566a472f5041a"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/slab_top/1.json"
+hash = "cde349134764c13ba76afc35f9473edac89f1a74f872ae356e8b18ef26c515ba"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/slab_top/10.json"
+hash = "048efb6e17971fe215455d67d51cbfe0d244f5e7df5aacdf854305ec193d6def"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/slab_top/11.json"
+hash = "6d8d392065cce403cca0ebd89ce1e365983b346f30b7dfc646307fe1898f1b08"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/slab_top/2.json"
+hash = "6a9fc93ea7186e408794cd45ec957aa1977ba29b8575147fb6a105c9076b3029"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/slab_top/3.json"
+hash = "35de87ae7b4105ee6eb59473a9a5268b5209205375e13812ed839ff627252d10"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/slab_top/4.json"
+hash = "dfae2b3741c9bd5e2141f6d894cb4ba5f2f5929bbc65546356bee655ebf1bb7f"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/slab_top/5.json"
+hash = "e01c6fa693ed81f7db7d6a64571cb562d0be55dc2c0c32c7a18763224cd3522e"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/slab_top/6.json"
+hash = "41e9ac140faa574bf1ddfa4b218c4ae5cc15c264d05439ad65aeb73fedae4a29"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/slab_top/7.json"
+hash = "8410e039b19e27eecc7b09fce26c57679de069136f01402978acb3a7e9516eb6"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/slab_top/8.json"
+hash = "cd7bb2e6e91e2f41eae0226991d0f9857615906e07d4a5f242db7a083ea42e76"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/slab_top/9.json"
+hash = "0ae0d26778b9bf9098fcf29d73d53828b978bc3ba136c8fd64cb6ec3f6fa4aa3"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/stairs/0.json"
+hash = "80fd6b1d3146b95e4217fd6720dfb513faf1913a26cf76488accab9f0498c3d2"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/stairs/1.json"
+hash = "604cf55e3e1b6c90ad9b20bfc4fc235c7f74fb8b4c4b8282c4f601b3dc9647a4"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/stairs/10.json"
+hash = "bdde9524e57205fdcf978906b60ddcb5dec57bcb32eb24093a266e68aaf21383"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/stairs/11.json"
+hash = "0e4b7c7d55686318437fff368b9d5beeefb3ba8a03683bf08987d5649dbc5e70"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/stairs/2.json"
+hash = "faac0fa30d94ca7d0457da67739bddae28ed587f007f91b4edc95ad94936964b"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/stairs/3.json"
+hash = "5ba14fbf0e9345e53366b0cc6aa58d2663dbe30f8e05a5d2d2c4be06094b3830"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/stairs/4.json"
+hash = "6a209382b673bb425fa743685ade21d3ac8282cd375b9e0cede9c125d8f6ab10"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/stairs/5.json"
+hash = "4ddab66036d2839dfc9cda357e21ecf308de03f67bbd8ffd6f1adb1d543291d8"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/stairs/6.json"
+hash = "614d313fe99c1a2fc06fec8632f569278b17769ed944f7f85b3f45e2790fd944"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/stairs/7.json"
+hash = "8370bdfc7299d6de4f2539108d71d8016fadfaf78b466070f52ed2f9d38f2a03"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/stairs/8.json"
+hash = "8c5e89ef9fddabcb380dcc87760e8ff4508d1c578984be32a8c60186e207bd97"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/stairs/9.json"
+hash = "24005e1abfd64040a8f6dfb79527016f450d445187933cff90542208673147bd"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/stairs_inner/0.json"
+hash = "ee2416b23bc5f873b2e250ae05baaaaa4de28cef0fe88e5a2db956ea2b8f01ab"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/stairs_inner/1.json"
+hash = "d27b2741c8f62aadd7fef4cee3d4888fb69cac17e372367bf7da50b58c353fac"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/stairs_inner/10.json"
+hash = "b758977c0b3c5f0145ba610b0c3299661278684aa26510e6523c864ebe623fe1"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/stairs_inner/11.json"
+hash = "0e05efa092b354a16067b0b69ddfa487c0673386fce2b22b44c91f6ba45c5216"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/stairs_inner/2.json"
+hash = "1e7134aa4a1748e5e73a05065d2d04d6ab1b2ac3cf28f6bb2977929b4d47ea18"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/stairs_inner/3.json"
+hash = "8a89d37c3c559e8bf41540b2ae69e2c12266220a96825d4093cbb424e7cb893b"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/stairs_inner/4.json"
+hash = "1b0f836f267e128b5e78b4d71238ad113be263d3a15ad379b2e072295ce21e86"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/stairs_inner/5.json"
+hash = "b48bfc7235397b378a390f2cd474c07de3e4e550194c857ebd769cde8e066bd3"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/stairs_inner/6.json"
+hash = "95935f0069a08a40edb28770f2e9edaa1c6bcc93ada1d06640a76a795d77f9c9"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/stairs_inner/7.json"
+hash = "1e50aa84dcc714dcd4ef27f9d22fa2c3df6b23099e364b449d4e197e74af1bd3"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/stairs_inner/8.json"
+hash = "560cf928d89b206ddc6298006bde8b6ccc414c3224741226c12da56e3f5e5f39"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/stairs_inner/9.json"
+hash = "4d7419f172a15082648623e8acafe54633d5b51eddb79b9a2b9a9db503a2b395"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/stairs_outer/0.json"
+hash = "75c404e650b0f752953f5b4a0e9482cacf62a9ffe1595fde62470d72f1b8286e"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/stairs_outer/1.json"
+hash = "e8f65cd3f207abab8af2d9ae5e99c3d465d0a3e78c737f29ada2bf4b2b192c92"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/stairs_outer/10.json"
+hash = "d8c2bad9cbbd647140c106a2e5a7ebb7f3e74818fdfc4b44bee9c23bf244ac39"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/stairs_outer/11.json"
+hash = "e2c47d36f3231196bb1813957a2c89d2cec5d2ef1001d1a58e704896130a481c"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/stairs_outer/2.json"
+hash = "d93cf97119546d67e04e02133b60f420350a146fd922d766fcd317f401bdbccf"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/stairs_outer/3.json"
+hash = "465c3e13d85a6f86739f8374b2b1a853baf604443b1c3af6a05ca4c59e4c6fd8"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/stairs_outer/4.json"
+hash = "51a8a13d24e339caec83048c9c3c687acba1fe20dfe0344538506fdf32bd2212"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/stairs_outer/5.json"
+hash = "b724cb5f5e385c363346085360e7c757eb17053999db1a76737e3311d10a8297"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/stairs_outer/6.json"
+hash = "f68d416ca4fffc2236e99d5175968b075c9f8546f85825331ea1451921dd967c"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/stairs_outer/7.json"
+hash = "dacf4f196964fa431260aa7cac81a0eaec17a1b4afa235722e111b33e15fbb24"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/stairs_outer/8.json"
+hash = "2a9cfbb954700abb4bf028cbe85c77e9501c49211a8cccadb49a393f3888d756"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/models/block/stone/stairs_outer/9.json"
+hash = "f7c1d7106064a28566bb378e5ec5aa1ed84aca75d769265637bf2e030ae21e51"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/textures/block/coal_ore.png"
+hash = "a50b6915ac39fe51bdc2b3625dddb0a49788945b267ea1f20025284fe7cffb70"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/textures/block/copper_ore.png"
+hash = "a7a91f7e95e6d54dc8b059d89b0b2d9a77f1299d19cee505f797b5ad16236304"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/textures/block/diamond_ore.png"
+hash = "072bfb1c779b7dd59ed1a7ba3b8253591a11d4dc23ca0de4c86c7062b3882867"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/textures/block/emerald_ore.png"
+hash = "e8e7713ca2ca50b7ce0ddea41ab5eabc93fe1958313cc5ec9c796422a66b0dc2"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/textures/block/gold_ore.png"
+hash = "0ad7a2c5a6d142a148375fc1cd1e6b4c4c839132171e9815601520fca9a4b75f"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/textures/block/iron_ore.png"
+hash = "da253298a91f8405bd62eef08ef5ef12bb99f2e2e26e4b2910f056a05c6804fd"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/textures/block/lapis_ore.png"
+hash = "42e787867f28ac32b8d591e79e8bc6bab6789e9c3f05f5e4f4fec825aae36ffa"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/textures/block/redstone_ore.png"
+hash = "dc1198e36569eb3adcbab5cc993cf5c046ed52ac44cf9ae825967945a0943c21"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/textures/block/stone.png"
+hash = "20790e8dfc7f643c1878691477b6668f81a90affa4d893c324d2fb20e02f14cf"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/textures/block/variated/stone/0.png"
+hash = "9d0fafa8cf9c09dd5116fd82da2dcbf3d9eaf44ca09a117e240e3d89572c077b"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/textures/block/variated/stone/1.png"
+hash = "219e19b2b13e490372b4bbb74cf33718a4e82f4ca0f68063d499ef3b9a2e1706"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/textures/block/variated/stone/10.png"
+hash = "9d0fafa8cf9c09dd5116fd82da2dcbf3d9eaf44ca09a117e240e3d89572c077b"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/textures/block/variated/stone/11.png"
+hash = "9d0fafa8cf9c09dd5116fd82da2dcbf3d9eaf44ca09a117e240e3d89572c077b"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/textures/block/variated/stone/2.png"
+hash = "219e19b2b13e490372b4bbb74cf33718a4e82f4ca0f68063d499ef3b9a2e1706"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/textures/block/variated/stone/3.png"
+hash = "f23d8da16f1f2c5a4b82cf57c87575873238259b9809d7c6cbbe6c11a5131096"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/textures/block/variated/stone/4.png"
+hash = "219e19b2b13e490372b4bbb74cf33718a4e82f4ca0f68063d499ef3b9a2e1706"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/textures/block/variated/stone/5.png"
+hash = "7e65350494f11341e23ca6e994376592b31e7e01a40bd5732a3cfc49056eda18"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/textures/block/variated/stone/6.png"
+hash = "9d0fafa8cf9c09dd5116fd82da2dcbf3d9eaf44ca09a117e240e3d89572c077b"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/textures/block/variated/stone/7.png"
+hash = "219e19b2b13e490372b4bbb74cf33718a4e82f4ca0f68063d499ef3b9a2e1706"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/textures/block/variated/stone/8.png"
+hash = "9d0fafa8cf9c09dd5116fd82da2dcbf3d9eaf44ca09a117e240e3d89572c077b"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/textures/block/variated/stone/9.png"
+hash = "219e19b2b13e490372b4bbb74cf33718a4e82f4ca0f68063d499ef3b9a2e1706"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/textures/environment/rain.png"
+hash = "cbee3c041cca19c3b767349d49235b52d59b35f9ccfc8e80e73f996ede3821d6"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/textures/environment/snow.png"
+hash = "495d5f77e7700d2acb0601a7070d4704c7ac00327e6fa2a7f8bc86fe059cbab7"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/textures/gui/footer_separator.png"
+hash = "aac1b611205a038a49841dcb0dbe04571228fa484a978253c2031ad2aaa9eda5"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/textures/gui/header_separator.png"
+hash = "c39aed40bdef81c0a87a341b165cbb1b64c132d5b567bcf9cec92c2b5ae74cdd"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/textures/gui/light_dirt_background.png"
+hash = "2167d922f0d53e1b3651e9f1c39d075c2d4934e95d21506fd55e41f26a9793c6"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/textures/gui/options_background.png"
+hash = "4506cf1e91fcd066ad1fc7326cbb33a86e2c03fb21610344b64d1dcdb128727e"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/textures/gui/sprites/widget/tab.png"
+hash = "844a040a875fcc84ca9ec97c7cdb7e3fe7b90c64865e473ba61a7122dafb7d8e"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/textures/gui/sprites/widget/tab_highlighted.png"
+hash = "55d06e0b87b77f0947240a8099c0ea23738c5976a22b9bbddbcc961139774ae0"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/textures/gui/sprites/widget/tab_selected.png"
+hash = "9701d22072fca2020ef98a04cf244826d40a84b9e4b960d9b428486653c4e112"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/textures/gui/sprites/widget/tab_selected_highlighted.png"
+hash = "73d823f20f7d154ce7b441409e1e1267e982d8c28338b3a8a5c370a39b97dabc"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/textures/misc/pumpkinblur.png"
+hash = "bdad185dd5f2129d4a9f260badef93e0e0459d517dff07252e60474d29a09197"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/minecraft/textures/misc/underwater.png"
+hash = "55725eb0efc4783595edc7a532d52dfca4c06d01663f6ff2d57b6f5417706fb9"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/polydecorations/textures/block/globe_earth.png"
+hash = "148ecf7e60ff7ee2029c7394302a64a874bb534395bf70cd0e40e8aa6ad8c1bc"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/reset-keys-confirmation-screen/lang/en_us.json"
+hash = "fa48510b6343e54f04082dec4437ccc0f8be0c82efdc875467181a67d397c450"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/simple-coordinates/lang/en_us.json"
+hash = "f2dfc9ce3c87725a49d330339110fb7ee462fbf9c971e89ecd5efdb707d35401"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/slimebuckets/textures/item/magma_cube_bucket.png"
+hash = "63ddf0fe6cd618fefc3e29567e07f04c4a8881f3c1029f642d32e247d277c079"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/slimebuckets/textures/item/slime_bucket.png"
+hash = "5b94198dce16d9aca27f5d5a078b4e6de14d5134b5f9bce8872a64871d4e8f39"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/slimebuckets/textures/item/slime_bucket_excited.png"
+hash = "dbf4c84e921d2bad2a3a18b19cf5ce56519fe130aad3b0c39c1669b7b0c78334"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/slimebuckets/textures/item/slime_bucket_excited.png.mcmeta"
+hash = "a1c4637cd2dcc762a29e0a1af3b51ad47019cbcdf77f94a03e6f8ecda8c51824"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/slimebuckets/textures/particle/slime_ball.png"
+hash = "0c9bf4ff8852b05318d56d1b9a617d8fb49763ab3374d3c3d9e700f2684deaba"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/toomanypaintings/lang/en_us.json"
+hash = "de5f62458076b20de21ce8cf681e3a76fb8d2c3f1c7c93f673f03bbf2e18f544"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/xp-ores/textures/block/deepslate_ore.png"
+hash = "3907d7756afdda2331226f2e3a5eba0b1e42827760eef3b24fb7083f60d07d94"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/xp-ores/textures/block/deepslate_ore.png.mcmeta"
+hash = "6dbdac93b3b28e8ce4ac983327dd4c75499f84bebd12985d677669bf75e8e457"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/xp-ores/textures/block/end_ore.png"
+hash = "58f508f7ce492960a08a8de9ed2c638f4eb7b31dfecccb3d7853c549e9230555"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/xp-ores/textures/block/end_ore.png.mcmeta"
+hash = "6dbdac93b3b28e8ce4ac983327dd4c75499f84bebd12985d677669bf75e8e457"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/xp-ores/textures/block/nether_ore.png"
+hash = "83cb8062a6335465c8ca8f3165ae72a5c21bf5097a805458bdc4ae0acf24243c"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/xp-ores/textures/block/nether_ore.png.mcmeta"
+hash = "6dbdac93b3b28e8ce4ac983327dd4c75499f84bebd12985d677669bf75e8e457"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/xp-ores/textures/block/overworld_ore.png"
+hash = "50f306035a3f054084778c26ebdef78f777d22c2c48c3412814b44d09a77c247"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/assets/xp-ores/textures/block/overworld_ore.png.mcmeta"
+hash = "6dbdac93b3b28e8ce4ac983327dd4c75499f84bebd12985d677669bf75e8e457"
+
+[[files]]
+file = "config/paxi/resourcepacks/Emergence/pack.mcmeta"
+hash = "5cbe96a0b3b3056261b5d4c34199c5abece9b6dc4c909f3f1103b4cb83bd7343"
+
+[[files]]
+file = "config/paxi/resourcepacks/animated-furnace.pw.toml"
+hash = "e09e4565dc8d9475a9a9e51c534456b90cf4c05bc91470167cbf1f5021684ec5"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/cursive-font.pw.toml"
+hash = "312b3163530a974d286af78cab172f9cba56aee1ad874f6d03d9370e5f7ac8ea"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/distinguished-gui.pw.toml"
+hash = "919513ffc920b1a8d2eb296efb6cbca8db5829d0283eee3d7babd17041c4464e"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/eclectic-trove-legendary-tooltips.pw.toml"
+hash = "f88e09f4ad5f541b2dcec7326a67769286caa4e2b339cf388f151111656d6f74"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/fluentemoji-visibility.pw.toml"
+hash = "7b0f56793733d9e4a7982b3cd912bd23f6e7e626d16e6a8f04b7e490552faf2d"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/junkyard-dirt.pw.toml"
+hash = "ac0c5aac1c48a7e81fd713f4f598fcc79c7e287a1891af262d8e9b4871a33ec2"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/modern-toasts.pw.toml"
+hash = "4a0e2bc778cb303096c25a2b019801aac166e59ee1b93665253615c1b25bffc5"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/musical-tooltip.pw.toml"
+hash = "a84a15b20532718d306471a4d0336d31c9cb67fee1f1f375034b4c1ff1303158"
+metafile = true
+
+[[files]]
+file = "config/preferred-gamerules.properties"
+hash = "73587a046a1ca44b89c72a11ffddfe7917fa605666a38773b617bf2db6e6be9e"
+
+[[files]]
+file = "config/presencefootsteps/updater.json"
+hash = "1e7c61df09c105e1eeca8cf3dcbdfeb976700e9904bcb3983fc7791adb7fad2e"
+
+[[files]]
+file = "config/presencefootsteps/userconfig.json"
+hash = "bd092615a4fa77cb2da3eef6ac1c954c90a9db4af3f13a65a0bef8b3ba147f8f"
+
+[[files]]
+file = "config/random_mob_sizes.json"
+hash = "308ece0cc7af486fd556ac1621a03dfcb4a296fe9ecce4ee88ab354d6332d123"
+
+[[files]]
+file = "config/slimebuckets.toml"
+hash = "4f0008ce1f9854298c032e30991f15d55a16b780a20c5fbdc42c669aad12ecd7"
+
+[[files]]
+file = "config/sodium-extra-options.json"
+hash = "2bbff89a41bc3ad3e34106cd1d1ab951abdbfc68fe16796bcd19bf2ef903bf1b"
+
+[[files]]
+file = "config/xp-ores-config.json5"
+hash = "e0d5470de69b535374fe409a55cf76fc51b6da7bf39cce55fc12e381330b5c0f"
+
+[[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "de32db5dcde097bc8163221ebbe403b54c37e849490c6a572955bc88f640b011"
+metafile = true
+
+[[files]]
+file = "mods/accurate-block-placement-reborn.pw.toml"
+hash = "29857ebb80e0c8a7cb570ac609b49e7ac3f3262b6dcce93614dd23cda51e7c1d"
+metafile = true
+
+[[files]]
+file = "mods/additional-banners.pw.toml"
+hash = "d469d0801f5a0a0c20512fe4e7acdb830e629196248ea319bd59625a4ae05dfe"
+metafile = true
+
+[[files]]
+file = "mods/air-hop.pw.toml"
+hash = "c751693a6e911842b4b86590c57ac2c4c8b24682db9a9ea2172451e5543e65a1"
+metafile = true
+
+[[files]]
+file = "mods/alinlib.pw.toml"
+hash = "9ce10f3bc975cfd8979e88aff5a80e00d4ad98a0c6adf76933987444f65ac8a9"
+metafile = true
+
+[[files]]
+file = "mods/animal_feeding_trough.pw.toml"
+hash = "a0bf3e4e26c563a6b79df09c322e5a22a20ab5a2b2ae0a3263e30eacde186168"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "e9999d5ccd9cba3a02989e8887ee877e9dcf2daf6fb6d5aa8f1c960e42de6669"
+metafile = true
+
+[[files]]
+file = "mods/archaeology-banners.pw.toml"
+hash = "3e8212c80ccd8efb1c713ec063b1cf51e972f672a72287ec3db8e04e51ca7537"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "3b3eb136a09515edaa9d3b6fba49ac2d025c1dba4a5a0d9d7fdab1e17c6bddfb"
+metafile = true
+
+[[files]]
+file = "mods/auth-me.pw.toml"
+hash = "d8c4f0d87acda52c94a6f341cd98db22804e934b322eda4470089e3a511e8070"
+metafile = true
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "31da0d40daba6f88d50d18ae5565aee6996657bcc34138f75622dd8f582385f6"
+metafile = true
+
+[[files]]
+file = "mods/bannerretrieval.pw.toml"
+hash = "40082393c8763751943130238feb2d564f826fcf744b9fe10f41f26d23d0336d"
+metafile = true
+
+[[files]]
+file = "mods/better-archeology.pw.toml"
+hash = "a0aa2535442482d5df626c558e73de5adb9e7e9d562ad032c5c23cc28eec0e80"
+metafile = true
+
+[[files]]
+file = "mods/better-boat-movement.pw.toml"
+hash = "e22da24cc6952b73ff0bc920db5b8a40b84498345003935aaf4b3f4aba793082"
+metafile = true
+
+[[files]]
+file = "mods/better-clouds.pw.toml"
+hash = "c569d3c74e4a2454c3f8d2d5ecb48c51e6e45084ff5769566547a42de9794de7"
+metafile = true
+
+[[files]]
+file = "mods/better-craftables.pw.toml"
+hash = "147372f859828a361e2503a320a13ccf1f824f3c11d4a2b8d000f7bf80533ae4"
+metafile = true
+
+[[files]]
+file = "mods/better-furniture.pw.toml"
+hash = "43242578f9d5b1df85b42875aebccec32e44173f73f3a9adb6c2bff03e2968a5"
+metafile = true
+
+[[files]]
+file = "mods/better-ping-display-fabric.pw.toml"
+hash = "ec31177d5cf656efdff737432455211defb8ee188749e3f53f117f75f83d1b6a"
+metafile = true
+
+[[files]]
+file = "mods/better-safe-bed.pw.toml"
+hash = "174060d2765993d9b5e839e1a245d3264de085438c6cc1489fcd75029d34a0f2"
+metafile = true
+
+[[files]]
+file = "mods/better-spawner-control.pw.toml"
+hash = "5baff509e15191ce87768452222f1a171d0d6e81c06a176451aaa20a7743816c"
+metafile = true
+
+[[files]]
+file = "mods/blackwolf-library.pw.toml"
+hash = "126ce7195fdfef064a6de52bbb29693843a83f916d53fe7fbcfa72030b2e3f36"
+metafile = true
+
+[[files]]
+file = "mods/bobby.pw.toml"
+hash = "82b20a5c104de33dc01364ff2bf1354132327d085a3dc10954b5ea0ff3d53f51"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "13bf781d0d8d7580bb57618b41be57626d104b010ba390fff9bf2aa3e34e8535"
+metafile = true
+
+[[files]]
+file = "mods/bountiful-fares.pw.toml"
+hash = "6a8eadc30e18b04e00a9029518bf463eff2287d58f807f47e4970fb93f304554"
+metafile = true
+
+[[files]]
+file = "mods/bundle-jumble.pw.toml"
+hash = "87e095511044f486e64e9e90a3406b739472895fbf750787c62e2b4339dec70d"
+metafile = true
+
+[[files]]
+file = "mods/camera-utils.pw.toml"
+hash = "d56937a6cc76dfeefb55f46268783dcb0e1c8fc02abb2f4fca06294bf66a705d"
+metafile = true
+
+[[files]]
+file = "mods/capes.pw.toml"
+hash = "617563db0d44229fb65eb660130d02d1a4d2f29233eda03b68d3273e700326f8"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.pw.toml"
+hash = "2e1c11a500b45f797d3d173853d8ed87083786c2ba1b831547776115fcbe0b6b"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "33d342ee2fb724a91754eddb0124a0383cf5a8b3ce4cf5ec64aef6f55e89235e"
+metafile = true
+
+[[files]]
+file = "mods/chiseled-bookshelf-visualizer.pw.toml"
+hash = "43fc1cb8733c5a1e9bfeaf58c60a35f022ecd865a7fd3ca2f2464a08dec99bc7"
+metafile = true
+
+[[files]]
+file = "mods/chunks-fade-in.pw.toml"
+hash = "f1cea27f5ae59cf1eb5616a1b80e875f6b5ec7c45da005ba7654dc8977e5eaf1"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "e3ca186b116bd65d49fb0db709a1b37d303318e3afb2e06bc662313b53346d06"
+metafile = true
+
+[[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "7a4414a95295f22f036699300878058ddf043659fc95ac1bf1d7f725acb0bc46"
+metafile = true
+
+[[files]]
+file = "mods/cliffs.pw.toml"
+hash = "2869cbc929cd5f7877b686f2b6256ab6c6fb46a5ea3d3ac66e40bd578a67cd52"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "f250d6778f5b8d03ca32913bea5ea677508e9bb6d8201cdebe005bbe9c3100ee"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "f25d37373a0c4822e8a6ff799dc129cd9ad0fbf1b9b38c488a301cd561ec361b"
+metafile = true
+
+[[files]]
+file = "mods/comforts.pw.toml"
+hash = "40a9c2f1aaf9808ffe66b33ab45b56cd0c6cf07060819fd5044518cfe11f03c0"
+metafile = true
+
+[[files]]
+file = "mods/compass-ribbon.pw.toml"
+hash = "08e92b38d6645c10cdfe360b803f58906f399669e8ba8ca7146606bb304c56cd"
+metafile = true
+
+[[files]]
+file = "mods/complementary-nautilus.pw.toml"
+hash = "cc1037ddd4fa68e6b04caa609c12710643dad87cc86a02e5645a4ddfabd4535d"
+metafile = true
+
+[[files]]
+file = "mods/continents.pw.toml"
+hash = "5b0c16b9d7b811b3f60fd77055392012b40c8660000f9fb94b488b589d27bdaa"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "ab1c014ce67654e89af779137bdfd1f6f22888af218f44cf5d83e943d0d5fbc4"
+metafile = true
+
+[[files]]
+file = "mods/craft-chainmail.pw.toml"
+hash = "fae6783e6f955da3e6aada98cd946e31d81ad2783494198c93da02fb16211315"
+metafile = true
+
+[[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "a99d8322fb9740890347d39e182282e5e852af7368bd54d3bab26a1546e492f4"
+metafile = true
+
+[[files]]
+file = "mods/crossbow-enchants.pw.toml"
+hash = "d70ce3cc8a07b7c48c0712ed03a6fa1d16331abd13054928c5ee686a0bfb0045"
+metafile = true
+
+[[files]]
+file = "mods/ct-overhaul-village.pw.toml"
+hash = "8eda14f9c18b7886871baf01634f2c8d3225e2c909a41da07437e2018f186784"
+metafile = true
+
+[[files]]
+file = "mods/ctrl-q.pw.toml"
+hash = "ad2462959438c5181844602ff8489ff7397d87bf7dd1f42b6f9838cd66fc7bc9"
+metafile = true
+
+[[files]]
+file = "mods/danger-close.pw.toml"
+hash = "0050dc1cdc30d12177f88a08bbc6dd0ae55bfea44a487b8c863688925faa5cf1"
+metafile = true
+
+[[files]]
+file = "mods/dark-loading-screen.pw.toml"
+hash = "97ca0b01ac6888486402018e7c95ec3b219a89c3338a416fd25418def5f51fa1"
+metafile = true
+
+[[files]]
+file = "mods/difficulty-lock.pw.toml"
+hash = "3220ad219a68261842335b5a65e40a6a37e532c9b5a1b9fcf05d8810b9853f09"
+metafile = true
+
+[[files]]
+file = "mods/doors-closed.pw.toml"
+hash = "d6b9f49ed2f536495e2a1c8afa07c09d552742e641048d39a4582f86e1353fdb"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-stronghold-rework.pw.toml"
+hash = "f76ed5ac2cdd67baa9400573cfdd2d420d54a96ee08bc5471339c78571dd0b8d"
+metafile = true
+
+[[files]]
+file = "mods/dyed-item-frames.pw.toml"
+hash = "bc073b333386647bcf54fa3bc4e993cbfbcf333758427eb077305450fb4134db"
+metafile = true
+
+[[files]]
+file = "mods/easy-shulker-boxes.pw.toml"
+hash = "df1f4dc9fd2b4678e8d82b9c308bd2c84f918756534db7408666f2d3321b1549"
+metafile = true
+
+[[files]]
+file = "mods/eating-animation.pw.toml"
+hash = "d6f3249ad3a27395ebeaa97bd4601587169f0ffa50ddefabc0538358eee8b555"
+metafile = true
+
+[[files]]
+file = "mods/effective-invisibility.pw.toml"
+hash = "4121c4d6d62c5876392165515e9987579b3525de9fd3989d9e563aabf4a3b4c2"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "ac5c12694e11de82217e286caef194c41316db9ebbc8b97e514be3b7d9544939"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "e09fb9a9b65c03a9a415a5dbc576042ebbebb849c44cf6d98e84a0313c27caae"
+metafile = true
+
+[[files]]
+file = "mods/emitrades.pw.toml"
+hash = "28e274fb3b75d8e2604eab07f9ea6e9d663fa8a24aeafce09bdbfe5d3a88fac5"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "1c0633f52455c5c6db31b4d926acbbaa0890d771177b55e33eb245a7bc63b635"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "307cd10b6f2fa6aa4731540f76802e8803e8e93e1cc747927ae94bc168cbcbbf"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "1c267253fb20ff2891b75a531cb6c080d39ee416a417a0fc8814abeaed13383b"
+metafile = true
+
+[[files]]
+file = "mods/exlines-doors.pw.toml"
+hash = "0ef219bf0712774ce81419f7ad492ab86a49491e363c046a55e3e0f4150a196e"
+metafile = true
+
+[[files]]
+file = "mods/exordium.pw.toml"
+hash = "350e3aa46726c4ce33c9c383c673ab131c76c9015b5aa8c5532521beed1dfca4"
+metafile = true
+
+[[files]]
+file = "mods/expanded-storage.pw.toml"
+hash = "435bbbb3eb37a15856d60623e766262d1d75bd65e4a7597150c83d80acbd0ed8"
+metafile = true
+
+[[files]]
+file = "mods/experience-ores.pw.toml"
+hash = "93f73a33d707cdca64dce2c595b34974103f7fe64bced84dcc29e980034b792f"
+metafile = true
+
+[[files]]
+file = "mods/extraachievement.pw.toml"
+hash = "d32d1ea29025b34a25f6835a6b89444233e3c2558666652913a05325a8dc7a81"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "07e0e6a791f94db3ff245a16ba014936e35410fe0ee9aba9cbac2deee25f5a70"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "d74850aaf1ed5a53805d523aa2b624f58c43813446be0b6c066a599c80d704e6"
+metafile = true
+
+[[files]]
+file = "mods/fabrishot.pw.toml"
+hash = "b91224d8b6110cbeca20c7905f2ae6032e8ccd992733829fbc6a79d2da957839"
+metafile = true
+
+[[files]]
+file = "mods/fastquit.pw.toml"
+hash = "ff278c8a9a5e56d412fb2e7106790b0ac33b0a4a8699978f0ae4d5a2c70c63b3"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "4146027b92b4885fddec00435233c61c3728b5e09265982ab187021519a4fa89"
+metafile = true
+
+[[files]]
+file = "mods/fish-on-the-line.pw.toml"
+hash = "b3652acdbf48e272276160a5f5ae20f03ac14e0ad7172b7f7ed4bceeebd4a4ea"
+metafile = true
+
+[[files]]
+file = "mods/fixbookgui.pw.toml"
+hash = "9cee1bfaed623dbebb433e5f9341aff6381e3e400f4caab5ff41ad43c9b1cdfd"
+metafile = true
+
+[[files]]
+file = "mods/fixed-anvil-repair-cost.pw.toml"
+hash = "2ce89e8ea7cd31f26e06ff0df9fcf0482f9200c1be1d33f3b5b53b4feb6af2e2"
+metafile = true
+
+[[files]]
+file = "mods/flower-mimics.pw.toml"
+hash = "de853f862a5a8cb82094e0348659b785474ebd7a08a26a98ab8a27d982417d52"
+metafile = true
+
+[[files]]
+file = "mods/forcecloseworldloadingscreen.pw.toml"
+hash = "0b979a56ecb4f9cb0ae346d69b7ef0e95eb2c16c058fe0bf36728bb4ed453d1a"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "d1e32ea50e119b059ffe57b2785625679cf04641dfa2d7189197f09eb63aa7f7"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "181b258a0e00b0d27e657d7618d2b4ef739227c6a37a6497f5618940ac30abb7"
+metafile = true
+
+[[files]]
+file = "mods/give-me-a-new-splash-text.pw.toml"
+hash = "be758aa239571456748e89dbdad537d5a984526b2af83cc0b19ed26e21d9cc60"
+metafile = true
+
+[[files]]
+file = "mods/glow-banners.pw.toml"
+hash = "aab941ba93cb42cc3254ace8831e0fa5047090abf17ac9f70b7ecb13d1c2afb9"
+metafile = true
+
+[[files]]
+file = "mods/glowing-glow-squids.pw.toml"
+hash = "c2be2104f6034f909a0c15f5b36a956749e3be4849957766cad9150a1a214a4c"
+metafile = true
+
+[[files]]
+file = "mods/grabby-mobs.pw.toml"
+hash = "c51d8068af23daa3d3a77e8189fa2c7ba11dfe94fe9ee1e4d10a2998993abc50"
+metafile = true
+
+[[files]]
+file = "mods/grass-seeds.pw.toml"
+hash = "ecaedc40c87310cb0b89f4ce43f9b08b8935d795de7c54dd9281f7349298b363"
+metafile = true
+
+[[files]]
+file = "mods/hide-experimental-warning.pw.toml"
+hash = "2b4e4de278c1852b5ca52a5ee897debaf17620d9bbf6fbc5fb9a0d399df30fd2"
+metafile = true
+
+[[files]]
+file = "mods/horse-expert.pw.toml"
+hash = "472222c4da171f1769fdf1eacc3c6d18064f3bd9efdda91110e6a59739d86874"
+metafile = true
+
+[[files]]
+file = "mods/horse-stonks.pw.toml"
+hash = "2fd5cfe98936580270d643966953a9483ea072272e77c4b9fcc3fc20e8e7c80a"
+metafile = true
+
+[[files]]
+file = "mods/horseshoes.pw.toml"
+hash = "e7822cdabc94ab8e1f9d1273fc188ae3bb0a7abdb2ba1b5ecf474167769af850"
+metafile = true
+
+[[files]]
+file = "mods/iceberg.pw.toml"
+hash = "b88c6c427f6a4cd5160db8590d9dfc3d1613e7a284e38c451848af14d52d5086"
+metafile = true
+
+[[files]]
+file = "mods/infinite-banner-patterns.pw.toml"
+hash = "b7bad0a7d85b9af10804c6b39131dc7bdd9aef0f3d70f53e3c452258a8cc7d22"
+metafile = true
+
+[[files]]
+file = "mods/infinite-trading.pw.toml"
+hash = "ab420108e37f83fb85059a925e005e493d1f1aba85fb1d01c1662be2e6c120e0"
+metafile = true
+
+[[files]]
+file = "mods/juiceys-tweaks.pw.toml"
+hash = "103f2070c2450516331ffadd285572d39f18fee27e2ba2a716d37e23a1ef80a7"
+metafile = true
+
+[[files]]
+file = "mods/keep-my-soil-tilled.pw.toml"
+hash = "10755740889792b2000c208c36962a111d32c60e4cc833ce085d994d5994331d"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "d398662ae6e9d87e89384ba50a9787dbeb9425902a18b0cd8239efd0b966b453"
+metafile = true
+
+[[files]]
+file = "mods/language-reload.pw.toml"
+hash = "037f6b72bde7b586901f261820197efb52a369cdad3557eeaaa7a3f8e9c19799"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
+metafile = true
+
+[[files]]
+file = "mods/leashable-players.pw.toml"
+hash = "e6ba09ac41a32f9cd166cb6b85f3d595c7de2748579a7337423661135c6ac230"
+metafile = true
+
+[[files]]
+file = "mods/leather-bundles.pw.toml"
+hash = "e5e66b8e725ff53e9c6ffbf854ab9ae245b5b3b50a8829517ab42a481305a5bf"
+metafile = true
+
+[[files]]
+file = "mods/legacies-and-legends.pw.toml"
+hash = "b713d17fee1a2798eb63b194d7a88984d4f62a26d404bcf3275bb811d1f7d1d0"
+metafile = true
+
+[[files]]
+file = "mods/legendary-tooltips.pw.toml"
+hash = "2b896abd2e24cc4d2e62c2932df9968b89e95c4127a552a3523ad3406beaa395"
+metafile = true
+
+[[files]]
+file = "mods/lenient-death.pw.toml"
+hash = "a0352aa8f92c350074290d0bc48aa58c71260b336f0367cc2b08a8ac56c147ed"
+metafile = true
+
+[[files]]
+file = "mods/lighty.pw.toml"
+hash = "2bfb77eab828422028ca77b7c3caf566613bd6f85fa4569b3df241d2a30a2e92"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "3dedde5213176d72e1c353877fa44315945e8f3da2ba05f5679d81e9f558bb1d"
+metafile = true
+
+[[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "ae4ee97da990fb05883cbf05dc59fae7bc2d8e893393d45c45edd91b36771a59"
+metafile = true
+
+[[files]]
+file = "mods/lone-houses.pw.toml"
+hash = "452d7b0530d97887c546ca6578921d3060ab24622ecf95738696ddd270021110"
+metafile = true
+
+[[files]]
+file = "mods/marigolds.pw.toml"
+hash = "45014352f9630470d78693390ee9e1e9d948f5594045e95d005c87b61a78dc07"
+metafile = true
+
+[[files]]
+file = "mods/medieval-buildings.pw.toml"
+hash = "4f001e18867aeb95a997709a950e20c3a5b8706bb5cf8c28c9682f3198718c9f"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
+metafile = true
+
+[[files]]
+file = "mods/mine-spawners.pw.toml"
+hash = "44c2d5eac140fa4c78dc2d9d76839d033472e4ad65eec54860f139bbde453f08"
+metafile = true
+
+[[files]]
+file = "mods/mob-heads.pw.toml"
+hash = "9e0f0794025b4c44373d2eff847eb451be4be58d32d674960338c4a4163b24af"
+metafile = true
+
+[[files]]
+file = "mods/mob-statues.pw.toml"
+hash = "77a43d047dba8d73919a0d8ce449e62611d114ed971548f650c30c721141e70c"
+metafile = true
+
+[[files]]
+file = "mods/mob-trims.pw.toml"
+hash = "9800205ad9d8ce8dbe3a8c3a8fd8e0923cfe4cfa2ee59f666ff2bcdd2c8f456f"
+metafile = true
+
+[[files]]
+file = "mods/mobs-on-rails.pw.toml"
+hash = "955bf0e98a858e5553e1c57929c3086d340e735bf711d5d57c12aceddba97846"
+metafile = true
+
+[[files]]
+file = "mods/modern-farlands-mod.pw.toml"
+hash = "1eb1a1a4169b3432f92307248d0d94ebc4b02670befabe39514b245b2f0e6532"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "c0daa1b0438a80083fed9145abe9760e6d4b0f5d3f091ea12e893c32072c8899"
+metafile = true
+
+[[files]]
+file = "mods/modify-camera-collision.pw.toml"
+hash = "178722d09fd065ae267962ddc0c1d1f07640e7d23da2c29829b1207d77416107"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "f334786b4fa5a2cb0a6a952fa2a6ab74de3395c2be806045ea3a5905edd75363"
+metafile = true
+
+[[files]]
+file = "mods/monolib.pw.toml"
+hash = "5637140223f887257edcc3f3bfd233fb157b56a45feaafbb8823893b5a5edd8f"
+metafile = true
+
+[[files]]
+file = "mods/more-beautiful-pressure-plates.pw.toml"
+hash = "a18694e4aaf15988817370bd449318f9fda231338490b3436650efeee297be4f"
+metafile = true
+
+[[files]]
+file = "mods/more-mob-variants.pw.toml"
+hash = "302ca72647553f2d377c228a2abe3564c3919a36f9f5cfff32f2ce89c4a78fbc"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "9ecf3bd4cd96af63bb04063f74b8a13cea46a77bfce670b4408417f8d0d293e0"
+metafile = true
+
+[[files]]
+file = "mods/music-delay-reducer.pw.toml"
+hash = "12d1fb3b0f27112ed368c0e806f6c6ff6f35700bb651f6b4cbdfa23f5935a5a5"
+metafile = true
+
+[[files]]
+file = "mods/nicertabbackground.pw.toml"
+hash = "a239e627ccd854274be32cdecfeedcfa5d9485837a77dd2bea2ad227a6879dff"
+metafile = true
+
+[[files]]
+file = "mods/no-animal-tempt-delay.pw.toml"
+hash = "f0a20757a06d9d4635079ef83d0b4442e5067b2398f50769bc590542be208bf8"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "a6a57004f5990ae59be0b89eb2edc5f50e2233d0410bd5f8060d58401592e0ef"
+metafile = true
+
+[[files]]
+file = "mods/no-elytra-fireworks.pw.toml"
+hash = "aa24125bb375f3f10e217ff9d690d14a083a05984419675172e1283d631c6dfc"
+metafile = true
+
+[[files]]
+file = "mods/no-resource-pack-warnings.pw.toml"
+hash = "c8df23a6f0bd41d2f562b460e94bb3df7df1932298bf7b5081e43dfd7c270fae"
+metafile = true
+
+[[files]]
+file = "mods/no-telemetry.pw.toml"
+hash = "c3190dcd456e0e009b62c5a54ad7fdf27f0311f4912b2d7d1c4a43ab264648ab"
+metafile = true
+
+[[files]]
+file = "mods/no-trial-chambers.pw.toml"
+hash = "701bd8e091ee1403f9433145a4b1355cea850db8e146cd04dbcac90c43ff99bb"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "849d75109c9945c9900c2ca6e0c3ff7f3036b7f72a10722241962fe79e8a9516"
+metafile = true
+
+[[files]]
+file = "mods/paragraphs.pw.toml"
+hash = "ba1ed5e4741b5306c807077167a515d77c25d7af1ab796b40b9bc7e4c52c6e19"
+metafile = true
+
+[[files]]
+file = "mods/partnership.pw.toml"
+hash = "5859c5a5c032603a3bb4cd47a09ea81a4540c9461cecf0e174bf9f4898bf8d2a"
+metafile = true
+
+[[files]]
+file = "mods/paxi.pw.toml"
+hash = "73170bf5446b18a88d33a7a04653af758927c94b3e7aa052e6fd24b14623de64"
+metafile = true
+
+[[files]]
+file = "mods/pearfection.pw.toml"
+hash = "292b207b353668d65a463baeddcf1b76bcbfe6d686c202705f4f901f98ca6356"
+metafile = true
+
+[[files]]
+file = "mods/ping-wheel.pw.toml"
+hash = "b57cde2bb6508933e6a1ecbf202b5619063b1395223c36212d514110bd568659"
+metafile = true
+
+[[files]]
+file = "mods/pling.pw.toml"
+hash = "e8d07ed25aa50a2146f1b81daaf1f91204a8f2c0cad603d67344ed1d3ece0b00"
+metafile = true
+
+[[files]]
+file = "mods/polydecorations.pw.toml"
+hash = "32cb2daa6172b0cf66bc7acc3d750a3ecd48fc7eaf68a2d577462b7f03952314"
+metafile = true
+
+[[files]]
+file = "mods/polymer.pw.toml"
+hash = "69f167aef7aad460eb860866e003b4c044e1f667f36d2399b2635be20f047afd"
+metafile = true
+
+[[files]]
+file = "mods/preferred-gamerules.pw.toml"
+hash = "65c2655d832bbaa211047817bbe2c921052176324ae62aae8da5f53a4de3eef8"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "2bb3613e74cbc7f107b6e2c2d8dbefa84766b2cac0e2a9085e63a230a151d773"
+metafile = true
+
+[[files]]
+file = "mods/prism-lib.pw.toml"
+hash = "26b2641b6b339c708e52cf4125a6223af8c826a47a4dc865fa405471fa12c44c"
+metafile = true
+
+[[files]]
+file = "mods/proper-mobcap-modifier.pw.toml"
+hash = "649b6f561a0833e2fc1c8de7a2ff78a15c3333a6837716bfc09b08d924db88f3"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "12c916c2e23ba79a799005345c0545c8e4057b987e5b6ef527b2c6e95a118a41"
+metafile = true
+
+[[files]]
+file = "mods/raised.pw.toml"
+hash = "a39d62fa0ae0067676767e1dd45c2cd46d85ee0d6b1784778a0eb0d9ad4ca3c0"
+metafile = true
+
+[[files]]
+file = "mods/random-mob-sizes.pw.toml"
+hash = "8c4573c730c8c8183e0074276f66d819d078e30467609cd6fbe9a41c2b5a3186"
+metafile = true
+
+[[files]]
+file = "mods/rapscallions-and-rockhoppers.pw.toml"
+hash = "06a0b098c9198b9230fc94fbc9e1f6aad36080546de17817adce453c8688fa46"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "975478c93b1218131fd48695cd7efb9bbe0d69125409940b015a7058e42fb6be"
+metafile = true
+
+[[files]]
+file = "mods/refined-advancements.pw.toml"
+hash = "d9ac6c091693114c089844183b8ad0be3df189a22a9c703abbc21cf2a36b4ccc"
+metafile = true
+
+[[files]]
+file = "mods/replanting-crops.pw.toml"
+hash = "cac3f8cfbc012827afcd28eeec9910a6c75946e516022bba20537334ee839eb6"
+metafile = true
+
+[[files]]
+file = "mods/reset-keys-confirmation-screen.pw.toml"
+hash = "a4d9a3ab6c8db8311964468ea8ef90b5eb390f2deccbc45324d1c533e9e8c3a5"
+metafile = true
+
+[[files]]
+file = "mods/retraining.pw.toml"
+hash = "1ba33a7d526d927e1e865e3081f58524b5f19b055903ad64c97eefda9846892d"
+metafile = true
+
+[[files]]
+file = "mods/reworked-sleep-to-night.pw.toml"
+hash = "651497cd94ad1166311409fe2f7b7c9446a677fdc9821f1bee69504613af7688"
+metafile = true
+
+[[files]]
+file = "mods/ruthenium.pw.toml"
+hash = "80ff3ed1810627fa8dea2561b830d4ffe9f4f3d5c09f22246d9fe84868c953fb"
+metafile = true
+
+[[files]]
+file = "mods/safe-respawn.pw.toml"
+hash = "d7491db87db01b4c51c0b18c82c5e87830a078286326dccb3c2e0ebae7366766"
+metafile = true
+
+[[files]]
+file = "mods/scary-creepers.pw.toml"
+hash = "c79755e559b6fdee29dbe111feb134adb40eef93439e532db5db175aff4d3cdf"
+metafile = true
+
+[[files]]
+file = "mods/screenshot-to-clipboard.pw.toml"
+hash = "672f3809a2053eef01aea4015ca4b0d4be6c507622172c091c17833b8d2ffb39"
+metafile = true
+
+[[files]]
+file = "mods/sculk-expansion.pw.toml"
+hash = "bae43c34c6a3748a9b725223e98e6731127c1d6c9e6d366e82dc56dad3cdc5cc"
+metafile = true
+
+[[files]]
+file = "mods/seamless.pw.toml"
+hash = "be222778d10e4959d2ae852a2d7d21b200e728302e4c4fa9527699c40077ca21"
+metafile = true
+
+[[files]]
+file = "mods/sfbvill.pw.toml"
+hash = "85e8393a9b9632c933b3674144e3f90bc2bf94be07c1103b77c0b0fd9ba1b6be"
+metafile = true
+
+[[files]]
+file = "mods/shutupdeadentities.pw.toml"
+hash = "95ee6ee17a74232ccb503b4b51452f67bd9fbe2ce37f4abaabb04051133180fe"
+metafile = true
+
+[[files]]
+file = "mods/simple-coordinate.pw.toml"
+hash = "1c43b29b1bcbe5bb96a82071c61015a1edd6e0079b4cd5254e7b6c7e99be3464"
+metafile = true
+
+[[files]]
+file = "mods/simple-netherite-horse-armor.pw.toml"
+hash = "3e7fee92c7917ad0162163275b2c8e67a3a49d8bd804e3a035aecb184dc713a5"
+metafile = true
+
+[[files]]
+file = "mods/simplefog.pw.toml"
+hash = "1ecb59adbb103f86496203ff3f44a80b18193512e74fd7a367ed06234702059f"
+metafile = true
+
+[[files]]
+file = "mods/sit!.pw.toml"
+hash = "9f6d86a0cb0f0a2f98e23016602ec6bc6f8a52f587cda9de1eb1f0d56afc144d"
+metafile = true
+
+[[files]]
+file = "mods/slime-buckets.pw.toml"
+hash = "fc0f7ba15499421858107c094304b56322ace6c537cbfe33b85d5f9b5c7b24ac"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "f7c09e537f9db67804dd7df6b8ba3a0cfb63429ad992a99e8f8faba33187ded2"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "aef87c42638b1bb5716adce38efff4d6e803dbd5802e35159ff718a0ff0dde1b"
+metafile = true
+
+[[files]]
+file = "mods/spawn-animations.pw.toml"
+hash = "61e88480a7df95b00cae33f2dec5eadadd96ba4d68e2536ca036584495961a4f"
+metafile = true
+
+[[files]]
+file = "mods/spawners-drop-treasure.pw.toml"
+hash = "798d5518d96f608e4ddd005eb6f7bc9a0e3795ee9e1ba61f386c98e6205783c7"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "18ee61062b3f43fd026ee620bb2de6073de791132c5067d262bd424628bed4a5"
+metafile = true
+
+[[files]]
+file = "mods/stray-spawn.pw.toml"
+hash = "e16eb9ec4252b8e6aabf3f08e21c031c9d99a0b43dd4f408281e067c457c8d3a"
+metafile = true
+
+[[files]]
+file = "mods/stronger-snowballs.pw.toml"
+hash = "85e1940dbe5ba2133929a4b5fe3486bfe337bf5faee8dd3017928fe4004a44dd"
+metafile = true
+
+[[files]]
+file = "mods/tax-free-levels.pw.toml"
+hash = "751551d8ce556a64e31a9c8f4e27c4997e8c1806e7eccab468977adcb6736941"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+hash = "52ae7d824d0e2856df296db16f108d4843a7e1fea3b1769e4678f2e5b6dd991e"
+metafile = true
+
+[[files]]
+file = "mods/tidal-towns.pw.toml"
+hash = "b47c07f5182af99016791a7008a241cd19442cb9e993cd56f5f90961a5f1375f"
+metafile = true
+
+[[files]]
+file = "mods/title-fixer.pw.toml"
+hash = "979de662f7961a95711b1300db0d3c458a5cb49e45f449f368ff9580aff484b7"
+metafile = true
+
+[[files]]
+file = "mods/tnt-breaks-bedrock.pw.toml"
+hash = "e33c6a06922e2d2de4a1cb32da53a8f0c68f4bf9d70029f69082033239571080"
+metafile = true
+
+[[files]]
+file = "mods/too-many-paintings.pw.toml"
+hash = "ee716ac4adba2a1bbb3f9ddfb20868134759c600cfa3000c04380de01cad015c"
+metafile = true
+
+[[files]]
+file = "mods/tooltipfix.pw.toml"
+hash = "fe592547ec2aedf1de7add34f747f7845e103de228e2426328e9e60fe93298cc"
+metafile = true
+
+[[files]]
+file = "mods/torch-hit.pw.toml"
+hash = "d44c6a3ae25a47870d2a490cd82f1eac2dbb7b47934ab8757b1e4f7286f1fe8d"
+metafile = true
+
+[[files]]
+file = "mods/towns-and-towers.pw.toml"
+hash = "b6996c2512da1b4c20bf4b2ca10dbc665ea8b659d38113f225a24db365c7c346"
+metafile = true
+
+[[files]]
+file = "mods/trimseffects.pw.toml"
+hash = "fb8d73782e38a90c736e7067e6fc6dc8ae21109e3dc0772ee73bf212eebf0062"
+metafile = true
+
+[[files]]
+file = "mods/two-shulker-shells-drop.pw.toml"
+hash = "8c686780fc2ef474858a81c07b40dd4e658914486e829ddbbbd9aba40943e6bd"
+metafile = true
+
+[[files]]
+file = "mods/upgraded-mobs.pw.toml"
+hash = "92531be9d4904c7ae4884bd1f8896500252193951f815a95341185c66425db47"
+metafile = true
+
+[[files]]
+file = "mods/various-starting-loot.pw.toml"
+hash = "03225cf8e58b21c0ba00d546e4e8e84122150e595756132d6714b160814226ec"
+metafile = true
+
+[[files]]
+file = "mods/vein-mining.pw.toml"
+hash = "4e2b702422f4b1d94fba9e21c95c8a9ef4df34af2c09090bd6d64fdddd451b81"
+metafile = true
+
+[[files]]
+file = "mods/village-bell-recipe.pw.toml"
+hash = "91c2b506f7858db5d0fca8105d3e2b49a1c70eda5202c32feaa119a4c6e2d106"
+metafile = true
+
+[[files]]
+file = "mods/wandering-settlers.pw.toml"
+hash = "52475d7a388bd8f8cd13c8a1adfab1a7882309c2e2b1b8f46f592e4ae2a88a70"
+metafile = true
+
+[[files]]
+file = "mods/when-dungeons-arise-seven-seas.pw.toml"
+hash = "2862795a05ab8278a2135edba43fd05a24a709ff382300b76972d0b13bb48478"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "f2c750d280102a311769d802f9b151f5d6850c04a8cba6090a2e802de54ff6ce"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "5ca8392f7c2a2204723fdd74b7c78f20ca9cf1b4fb9b13604d412e00e824cc5d"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.pw.toml"
+hash = "f071cb561e8958cb5e6722f3f281e02cae4dd2a0f4fa7bbcec1a828b60d52258"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-ocean-monuments.pw.toml"
+hash = "872ede9008f346e048698f1fff71b8b28d1eb5e323049606710589668095126c"
+metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "20293e26de7990a53c37497abfe5c6e19cdb9e16b064a5dbddc70212980571cb"
+
+[[files]]
+file = "resourcepacks/dotcrosshair.pw.toml"
+hash = "4a1bacffa62879656db59b9dc3577abc230e7d9862a0a2892c335305bab5dc7f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "b57e4566ddd1f48bd1c3a726eed113eb1777fefb7ca1936173187c3fedb94d8f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/hd-shadows.pw.toml"
+hash = "98acc3555396db19dcd9e5f27ad43b2560e54145919eb34f08daf5994ad66c1e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/just-expressions.pw.toml"
+hash = "c300f4b15449b2ee77d762277fb5b523f69539c28ca2956ea0b8e1c2eedd76b3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/outline-shader.pw.toml"
+hash = "3b67d34118251c0257e4ef364d1b95121eee1be5f6fed7327bb09b4de70990a2"
+metafile = true
+
+[[files]]
+file = "resourcepacks/twinkling-stars.pw.toml"
+hash = "39a03a45817d9e4068f0fc67b16d3a342fe9a17af764dc12086005972563e076"
+metafile = true

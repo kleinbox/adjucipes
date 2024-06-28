@@ -1,11 +1,12 @@
-use std::process::exit;
 use anyhow::Error;
 use clap::Parser;
 use exceptions::Exception;
+use std::process::exit;
 
 pub mod cmd;
 pub mod datapack;
 pub mod exceptions;
+pub mod packwiz;
 
 fn main() {
     let cli = match cmd::Cli::try_parse() {
@@ -18,31 +19,32 @@ fn main() {
                     // Wait something else went wrong wtf??
                     exceptions::throw(&Error::from(another_error), exitcode::SOFTWARE)
                 }
-                exit(0)
+                exit(exitcode::OK)
             }
             // Ah nope, just our expected syntax error
             exceptions::throw(&Error::from(error), exitcode::USAGE)
-        },
+        }
     };
 
     if let Some(command) = cli.command {
         // CLI
         let result = match command {
-            cmd::Command::New { path, now }
-                => cmd::new::exec(path, now),
+            cmd::Command::New { path, now } => cmd::new::exec(path, now),
 
-            cmd::Command::Settings { path, key, value }
-                => cmd::settings::exec(path, key, value),
+            cmd::Command::Settings { path, key, value } => cmd::settings::exec(path, key, value),
 
-            cmd::Command::Build { path, destination }
-                => cmd::build::exec(path, destination),
+            cmd::Command::Build {
+                path,
+                destination,
+                packwiz,
+            } => cmd::build::exec(path, destination, packwiz),
         };
 
         if let Err(error) = result {
             if let Some(exception) = error.downcast_ref::<Exception>() {
                 exceptions::throw(&error, exception.exitcode());
             } else {
-                exit(1);
+                exit(exitcode::DATAERR);
             }
         }
     } else {

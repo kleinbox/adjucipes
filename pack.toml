@@ -1,0 +1,16 @@
+name = "Emergence"
+author = "Sammy L. Koch"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "44e2f0f8a09219ad2b2a9773518d26a23fc1c1d4d34edb260804919c5be652d3"
+
+[versions]
+fabric = "0.15.11"
+minecraft = "1.20.4"
+
+[options]
+datapack-folder = "config/paxi/datapacks"

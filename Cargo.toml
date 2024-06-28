@@ -2,8 +2,8 @@
 name = "adjucipes"
 version = "0.1.0"
 edition = "2021"
-license = "GPL-3.0-or-later"
-authors = [ "Sammy L. Koch", "asd", "dfsd sdg" ]
+license = "LGPL-3.0-only"
+authors = ["Sammy L. Koch"]
 
 [dependencies]
 anyhow = "1.0"
@@ -11,29 +11,7 @@ camino = "1.1"
 clap = { version = "4.5", features = ["derive"] }
 exitcode = "1.1"
 nu-ansi-term = "0.50"
+serde_json = "1.0"
 thiserror = "1.0"
+toml = "0.8"
 zip = "1.2"
-
-# https://lune-org.github.io/docs/getting-started/1-installation
-# https://lib.rs/crates/notify
-# https://lib.rs/crates/indexmap
-# https://lib.rs/crates/ureq
-# https://lib.rs/crates/sha1
-# https://lib.rs/crates/tempfile
-# https://lib.rs/crates/ferinth
-# https://duckduckgo.com/?q=walkdir+rs&t=newext&atb=v407-1&ia=web
-# https://docs.rs/url/latest/url/
-# https://docs.rs/toml/latest/toml/
-# https://docs.rs/parking_lot/latest/parking_lot/
-# https://docs.rs/anyhow/latest/anyhow/
-# https://docs.rs/nu-ansi-term/latest/nu_ansi_term/index.html
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 

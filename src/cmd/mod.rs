@@ -48,6 +48,8 @@ pub enum Command {
         /// Determine the path where the Datapack should be stored.
         #[arg(default_value = "./")]
         destination: Utf8PathBuf,
+        /// Determine the path where the Datapack should be stored. If not given, it will use the next one it can find in a parent folder.
+        packwiz: Option<Utf8PathBuf>,
     },
 }
 
